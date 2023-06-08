@@ -1,2 +1,2 @@
 # Devops-GithubActions
-Testing and studying GithubActions Demos 
+Testing and Studying GithubActions Demos 
